@@ -27,4 +27,4 @@ dia chi noi lam viec
 <pre>
 * Emails: vpb [at] es [dot] aau [dot] dk (working) \
           bvphuc28 [at] gmail [dot] com (personal)
-<\pre>
+</pre>
