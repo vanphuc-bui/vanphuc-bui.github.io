@@ -26,5 +26,9 @@ Section on Connectivity,  [Department of Electronic Systems](https://www.es.aau.
 dia chi noi lam viec
 
 * Emails: vpb [at] es [dot] aau [dot] dk (working) \
+<<<<<<< HEAD
    &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; bvphuc28 [at] gmail [dot] com (personal)
 
+=======
+   &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &ensp; bvphuc28 [at] gmail [dot] com (personal)
+>>>>>>> 9d0c1bf4e178a0d86924600dcea907314b97ec72
