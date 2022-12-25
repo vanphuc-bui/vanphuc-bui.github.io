@@ -26,4 +26,4 @@ Section on Connectivity,  [Department of Electronic Systems](https://www.es.aau.
 [Aalborg University](https://www.aau.dk/) \
 
 * Emails: vpb [at] es [dot] aau [dot] dk (working) \
-          bvphuc28 [at] gmail [dot] com (personal)
+  &nbsp &nbsp bvphuc28 [at] gmail [dot] com (personal)
