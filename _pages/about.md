@@ -24,7 +24,7 @@ His research interest includes wireless communication and satellite communicatio
 * **Van-Phuc Bui** \
 Section on Connectivity,  [Department of Electronic Systems](https://www.es.aau.dk/), [Aalborg University](https://www.aau.dk/) \
 dia chi noi lam viec
-<pre>
+
 * Emails: vpb [at] es [dot] aau [dot] dk (working) \
-          bvphuc28 [at] gmail [dot] com (personal)
-</pre>
+   &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; bvphuc28 [at] gmail [dot] com (personal)
+
