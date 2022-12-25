@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Ph.D. student at the  Section on Connectivity, Department of Electronic Systems
+Ph.D. student at the  Section on Connectivity, Department of Electronic Systems, Aalborg University \
 Aalborg, Denmark
 
 # Bio
