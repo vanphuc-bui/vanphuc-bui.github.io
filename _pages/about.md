@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-About Me
+<!-- About Me -->
+# About me
 I am a Ph.D. student at the  Section on Connectivity, Department of Electronic Systems, Aalborg University, under the supervision of [Prof. Petar Popovski](http://petarpopovski.es.aau.dk/).
 
 My current research is focused on the semantic communication, edge computing, optimization and machine learning solution for wireless interfaces. My ambitious aim is to develop architectures/ techniques that are more interpretable, scalable and data efficient.
