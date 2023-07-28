@@ -20,7 +20,7 @@ author_profile: true
 
 1. **Van-Phuc Bui**, Shashi Raj Pandey, Federico Chiariotti, and Petar Popovski. "Scheduling policy for Value-of-Information (VoI) in trajectory estimation for Digital Twins." IEEE Communications Letters (2023).
    
-   [Download paper here](http://vanphuc-bui.github.io/files/paper1.pdf)
+   <!-- [Download paper here](http://vanphuc-bui.github.io/files/paper1.pdf) -->
 
 2. **Van-Phuc Bui**, Shashi Raj Pandey, Federico Chiariotti, and Petar Popovski. "Game Networking and its Evolution towards Supporting Metaverse through the 6G Wireless Systems." arXiv preprint arXiv:2302.01672 (2023).
 
