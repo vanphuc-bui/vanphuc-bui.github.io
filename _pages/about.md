@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <!-- About Me -->
-# About me
+## About me
 I am a Ph.D. student at the  Section on Connectivity, Department of Electronic Systems, Aalborg University, under the supervision of [Prof. Petar Popovski](http://petarpopovski.es.aau.dk/).
 
 My current research is focused on the semantic communication, edge computing, optimization and machine learning solutions for wireless and satellite communications. 
@@ -25,7 +25,7 @@ He is now pursuing the Ph.D. degree under supervising of [Prof. Petar Popovski](
 His research interest includes wireless communication and satellite communications, with an  emphasis on optimization, machine learning, and edge computing.  -->
 
 ---
-# Contact
+## Contact
 
 * Van-Phuc Bui \
 Section on Connectivity,  [Department of Electronic Systems](https://www.es.aau.dk/), [Aalborg University](https://www.aau.dk/) \
