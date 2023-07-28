@@ -11,7 +11,7 @@ redirect_from:
 
 ## Education
 
-* Ph.D student in Wireless Communications, Aalborg University, 2021 - present 
+* Ph.D student in Wireless Communications, Aalborg University, 2022 - present 
 * M.S. in Wireless Communications, Soongsil University, 2018 - 2020
 * B.S. in Electronics and Telecommunications, Ho Chi Minh city University of Technology, 2013 - 2018
 
