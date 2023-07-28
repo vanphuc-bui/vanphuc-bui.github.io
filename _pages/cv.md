@@ -62,3 +62,5 @@ ration.
 * Sep. 2016: Awarded the Scholarship of Alumni Association of the HMCUT.
 
 * 2013 - 2014: Awarded the 3rd prize at Thai Binh Mathematical Olympiad.
+
+**My full CV and references available upon request.**
