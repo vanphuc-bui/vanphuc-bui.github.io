@@ -56,8 +56,7 @@ Scholarship for Excellence).
 * Aug. 2017: Full scholarship “International Summer Research School”, Queen’s University
 Belfast, United Kingdom, and Duy Tan University, Da Nang City, Vietnam.
 
-* Dec. 2016: Sunflower Mission Engineering and Technology Scholarship of the eSilicon Corpo-
-ration.
+* Dec. 2016: Sunflower Mission Engineering and Technology Scholarship of the eSilicon Corporation.
 
 * Sep. 2016: Awarded the Scholarship of Alumni Association of the HMCUT.
 
