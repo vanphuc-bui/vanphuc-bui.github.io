@@ -25,7 +25,7 @@ His research interest includes wireless communication and satellite communicatio
 ---
 # Contact
 
-* **Van-Phuc Bui** \
+* Van-Phuc Bui \
 Section on Connectivity,  [Department of Electronic Systems](https://www.es.aau.dk/), [Aalborg University](https://www.aau.dk/) \
 Fredrik Bajers Vej 7C, 9220 Aalborg
 
