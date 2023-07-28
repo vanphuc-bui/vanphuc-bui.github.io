@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Van-Phuc Bui"
+title: #"Van-Phuc Bui"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
