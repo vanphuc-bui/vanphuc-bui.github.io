@@ -30,7 +30,7 @@ in 5G signal processing networks
    - Developing and implementing an artificial neural network to C language for integrating into a signal
 processing micro chip
 
-* _Software Engineerp_: Viettel Telecom Corporation (Apr. 2017 - Dec. 2017)
+* _Software Engineer_: Viettel Telecom Corporation (Apr. 2017 - Dec. 2017)
    - Developing android software and IoT devices that support smarthome such as smart electric drive,
 control software
    - Collecting electric-energy meter’s information from 3G kit, maintain and add more functionality to the exist control system
