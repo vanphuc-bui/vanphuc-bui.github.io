@@ -35,7 +35,23 @@ processing micro chip
 control software
    - Collecting electric-energy meter’s information from 3G kit, maintain and add more functionality to the exist control system
 
-
+## Selected Awards
+* 2013 - 2018: Ranked 1st in the Talented Electronics - Telecommunication Program in the HCMUT. The Talented Program in the HCMUT is an advanced study program, selecting 100 top gifted students with good maths and physics backgrounds from around 5000 students admitted to HCMUT every year.
+* 2013 - 2018: First-class honours in the Electronics - Telecommunications department amongst
+about 600 - 700 candidates in the HCMUT.
+* 2013 - 2018: Awarded the University Medal at the HCMUT University Graduation Ceremony
+with outstanding academic achievements.
+* 2013 - 2018: Awarded the University Scholarships in all academic years at the HCMUT.
+* Dec. 2017: STEM Scholarships in Vietnam (Sunflower Mission 2017 Engineering and Technology
+Scholarship for Excellence).
+* Dec. 2017: STEM Scholarships in Vietnam (Sunflower Mission 2017 Engineering and Technology
+Scholarship for Excellence).
+* Aug. 2017: Full scholarship “International Summer Research School”, Queen’s University
+Belfast, United Kingdom, and Duy Tan University, Da Nang City, Vietnam.
+* Dec. 2016: Sunflower Mission Engineering and Technology Scholarship of the eSilicon Corpo-
+ration.
+* Sep. 2016: Awarded the Scholarship of Alumni Association of the HMCUT.
+* 2013 - 2014: Awarded the 3rd prize at Thai Binh Mathematical Olympiad.
 <!-- ## Eperience
 
 * Summer 2015: Research Assistant
