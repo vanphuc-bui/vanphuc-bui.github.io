@@ -11,11 +11,32 @@ redirect_from:
 
 ## Education
 
-* Ph.D student in Wireless Communications, Aalborg University, 2022 - present 
-* M.S. in Wireless Communications, Soongsil University, 2018 - 2020
-* B.S. in Electronics and Telecommunications, Ho Chi Minh city University of Technology, 2013 - 2018
+* **Ph.D student** in Wireless Communications, Aalborg University, 2022 - present 
+   * Thesis: 
+* **M.S.Eng. in Wireless Communications**, Soongsil University, 2018 - 2020. GPA: 94.5/100
+  * Thesis: _Resource Allocation for Simultaneous Wireless Information and Power Transfer in Relaying
+Systems_
+* **B.S.(First Class Honors) in Electronics and Telecommunications**, Ho Chi Minh city University of Technology, 2013 - 2018
+   * Thesis: _Sign language identification for people with hearing disabilities_ (grade: 95/100)
 
-## Eperience
+## Experience
+* _Internship_: SES Corporation (Jan. 2022 - Feb. 2022)
+   - Research and develop GEO satellite resource allocation algorithms, using optimizations and machine
+learning techniques.
+
+* _Internship_: Viettel Telecom Corporation (Sep. 2020 - Apr. 2021)
+   - Developing signal processing algorithms aimed at distortion compensation for power amplifier circuits
+in 5G signal processing networks
+   - Developing and implementing an artificial neural network to C language for integrating into a signal
+processing micro chip
+
+* _Software Engineerp_: Viettel Telecom Corporation (Apr. 2017 - Dec. 2017)
+   - Developing android software and IoT devices that support smarthome such as smart electric drive,
+control software
+   - Collecting electric-energy meter’s information from 3G kit, maintain and add more functionality to the exist control system
+
+
+<!-- ## Eperience
 
 * Summer 2015: Research Assistant
   * Github University
@@ -56,4 +77,4 @@ redirect_from:
   
 ## Service and leadership
 
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
