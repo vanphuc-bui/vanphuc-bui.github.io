@@ -25,5 +25,5 @@ His research interest includes wireless communication and satellite communicatio
 Section on Connectivity,  [Department of Electronic Systems](https://www.es.aau.dk/), [Aalborg University](https://www.aau.dk/) \
 Fredrik Bajers Vej 7C, 9220 Aalborg
 
-* Emails: vpb [at] es [dot] aau [dot] dk (working) \
-   &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &ensp; bvphuc28 [at] gmail [dot] com (personal)
+* Emails: vpb@es.aau.dk (working) \
+   &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &ensp; bvphuc28@gmail.com (personal)
