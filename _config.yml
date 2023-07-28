@@ -81,11 +81,11 @@ analytics:
 # Site Author
 author:
   name             : "Van-Phuc Bui"
-  avatar           : "profile.png"
+  avatar           : "phuc_avatar.jpeg"
   bio              : "Ph.D. student in Telecommunication Systems"
   location         : "Aalborg University"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=EwQEzCsAAAAJ&hl=en"
   email            :
   researchgate     :  "https://www.researchgate.net/profile/Van-Phuc-Bui/research"
