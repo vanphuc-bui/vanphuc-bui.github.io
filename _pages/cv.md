@@ -11,12 +11,14 @@ redirect_from:
 
 ## Education
 
-* **Ph.D student** in Wireless Communications, Aalborg University, 2022 - present 
+* **Ph.D student** in Wireless Communications, Aalborg University, (2022 - present) 
    * Thesis: 
-* **M.S.Eng. in Wireless Communications**, Soongsil University, 2018 - 2020. GPA: 94.5/100
+
+* **M.S.Eng. in Wireless Communications**, Soongsil University, (2018 - 2020). GPA: 94.5/100
   * Thesis: _Resource Allocation for Simultaneous Wireless Information and Power Transfer in Relaying
 Systems_
-* **B.S.(First Class Honors) in Electronics and Telecommunications**, Ho Chi Minh city University of Technology, 2013 - 2018
+
+* **B.S. in Electronics and Telecommunications**, Ho Chi Minh city University of Technology, (2013 - 2018). _First class Honors_
    * Thesis: _Sign language identification for people with hearing disabilities_ (grade: 95/100)
 
 ## Experience
