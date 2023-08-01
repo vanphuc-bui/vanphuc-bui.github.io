@@ -33,3 +33,6 @@ Fredrik Bajers Vej 7C, 9220 Aalborg
 
 * Emails: vpb@es.aau.dk  \
    &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &ensp; bvphuc28@gmail.com 
+
+<!-- * News
+   - 19/07/2023:  -->

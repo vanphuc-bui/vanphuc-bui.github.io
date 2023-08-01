@@ -14,7 +14,7 @@ redirect_from:
 * **Ph.D student** in Wireless Communications, Aalborg University, (2022 - present) 
    * Thesis: 
 
-* **M.S.Eng.** in Wireless Communications, Soongsil University, (2018 - 2020). GPA: 94.5/100
+* **M.S. Eng.** in Wireless Communications, Soongsil University, (2018 - 2020). GPA: 94.5/100
   * Thesis: _Resource Allocation for Simultaneous Wireless Information and Power Transfer in Relaying
 Systems_
 

@@ -18,5 +18,8 @@ main:
   - title: "Vitae"
     url: /cv/
     
+  - title: "Activities"
+    url: /activities/
+
   # - title: "Guide"
   #   url: /markdown/
