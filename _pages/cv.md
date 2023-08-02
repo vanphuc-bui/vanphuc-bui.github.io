@@ -23,13 +23,12 @@ Systems_
 
 ## Experience
 * _Internship_: SES Corporation (Jan. 2022 - Feb. 2022)
-   - Research and develop GEO satellite resource allocation algorithms, using optimizations and machine
-learning techniques.
+   - Research and develop GEO satellite resource allocation algorithms, leveraging optimizations methodologies and machine learning techniques
 
 * _Internship_: Viettel Telecom Corporation (Sep. 2020 - Apr. 2021)
-   - Developing signal processing algorithms aimed at distortion compensation for power amplifier circuits
-in 5G signal processing networks
-   - Developing and implementing an artificial neural network to C language for integrating into a signal
+   - Develop signal processing algorithms designed for distortion compensation within power amplifier circuits integrated into 5G signal processing chips
+   - The undertaking involves the development and integration of an artificial neural network into a signal processing microchip, wherein the neural network will be implemented using the C language
+
 processing micro chip
 
 * _Software Engineer_: Viettel Telecom Corporation (Apr. 2017 - Dec. 2017)
