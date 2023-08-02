@@ -33,8 +33,6 @@ Systems_
    - Develop signal processing algorithms designed for distortion compensation within power amplifier circuits integrated into 5G signal processing chips
    - The undertaking involves the development and integration of an artificial neural network into a signal processing microchip, wherein the neural network will be implemented using the C language
 
-processing micro chip
-
 * _Software Engineer_: Viettel Telecom Corporation (Apr. 2017 - Dec. 2017)
    - Developing android software and IoT devices that support smarthome such as smart electric drive,
 control software
