@@ -21,7 +21,11 @@ Systems_
 * **B.S.** in Electronics and Telecommunications, Ho Chi Minh city University of Technology, (2013 - 2018). _First class Honors_
    * Thesis: _Sign language identification for people with hearing disabilities_ (grade: 95/100)
 
-## Experience
+## Academic Experience
+* _Research assistant_: Aalborg University, Denmark (May 2022 - Present)
+* _Research assistant_: Luxembourg University, Luxembourg (May 2021 - May 2022)
+* _Research assistant_: Soongsil University, South Korea (July 2018 - Aug. 2020)
+## Industry Experience
 * _Internship_: SES Corporation (Jan. 2022 - Feb. 2022)
    - Research and develop GEO satellite resource allocation algorithms, leveraging optimizations methodologies and machine learning techniques
 
