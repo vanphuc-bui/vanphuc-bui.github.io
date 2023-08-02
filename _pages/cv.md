@@ -25,6 +25,7 @@ Systems_
 * _Research assistant_: Aalborg University, Denmark (May 2022 - Present)
 * _Research assistant_: Luxembourg University, Luxembourg (May 2021 - May 2022)
 * _Research assistant_: Soongsil University, South Korea (July 2018 - Aug. 2020)
+
 ## Industry Experience
 * _Internship_: SES Corporation (Jan. 2022 - Feb. 2022)
    - Research and develop GEO satellite resource allocation algorithms, leveraging optimizations methodologies and machine learning techniques
