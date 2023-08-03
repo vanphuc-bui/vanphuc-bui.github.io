@@ -13,6 +13,7 @@ You can also find my articles on [Google Scholar profile](https://scholar.google
   {% include archive-single.html %}
 {% endfor %} -->
 
+---
 ## Journals
 
 1. **Van-Phuc Bui**, Shashi Raj Pandey, Federico Chiariotti, and Petar Popovski. "Scheduling policy for Value-of-Information (VoI) in trajectory estimation for Digital Twins." IEEE Communications Letters (2023).
@@ -30,6 +31,7 @@ You can also find my articles on [Google Scholar profile](https://scholar.google
 
 1. **Van-Phuc Bui**, Hieu V. Nguyen, Van-Dinh Nguyen, and Oh-Soon Shin. "Robust joint optimization of transmit power and decoding order in uplink NOMA systems." Electronics 8, no. 9 (2019): 930.
 
+---
 ## Conferences
 
 1. Pandey, Shashi Raj, **Van-Phuc Bui**, and Petar Popovski. "Goal-Oriented Communications in Federated Learning via Feedback on Risk-Averse Participation." arXiv preprint arXiv:2305.11633 (2023).
