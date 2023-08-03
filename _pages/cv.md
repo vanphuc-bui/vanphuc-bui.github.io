@@ -9,6 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
+---
 ## Education
 
 * **Ph.D student** in Wireless Communications, Aalborg University, (2022 - present) 
@@ -21,11 +22,13 @@ Systems_
 * **B.S.** in Electronics and Telecommunications, Ho Chi Minh city University of Technology, (2013 - 2018). _First class Honors_
    * Thesis: _Sign language identification for people with hearing disabilities_ (grade: 95/100)
 
+---
 ## Academic Experience
 * _Research assistant_: Aalborg University, Denmark (May 2022 - Present)
 * _Research assistant_: Luxembourg University, Luxembourg (May 2021 - May 2022)
 * _Research assistant_: Soongsil University, South Korea (July 2018 - Aug. 2020)
 
+---
 ## Industry Experience
 * _Internship_: SES Corporation (Jan. 2022 - Feb. 2022)
    - Research and develop GEO satellite resource allocation algorithms, leveraging optimizations methodologies and machine learning techniques
@@ -39,6 +42,7 @@ Systems_
 control software
    - Collecting electric-energy meter’s information from 3G kit, maintain and add more functionality to the exist control system
 
+---
 ## Selected Awards
 * 2013 - 2018: Ranked 1st in the Talented Electronics - Telecommunication Program in the HCMUT. The Talented Program in the HCMUT is an advanced study program, selecting 100 top gifted students with good maths and physics backgrounds from around 5000 students admitted to HCMUT every year.
 
