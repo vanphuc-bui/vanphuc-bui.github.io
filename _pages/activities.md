@@ -25,5 +25,5 @@ redirect_from:
 ---
 ## Other activities
 * Jul. 2023: Present a poster at [6G Wireless Foundations Forum, EURECOM](https://www.6gwff.org/), France
-* Jun. 2023: Attended to 11th International UBI Summer School, [Workshop A: CREATING VIRTUAL REALITY EXPERIENCES FOR SOCIAL GOOD](https://ubicomp.oulu.fi/ubiss2023/workshops-instructors#WB), Oulu, Finland
+* Jun. 2023: Attended to 11th International UBI Summer School, [Workshop A: CREATING VIRTUAL REALITY EXPERIENCES FOR SOCIAL GOOD](https://ubicomp.oulu.fi/ubiss2023/workshops-instructors#WA), Oulu, Finland
 * Sep. 2022: Present a poster at [IEEE SPS and EURASIP Summer School on Defining 6G: Theory, Applications, and Enabling Technologies](https://signalprocessingsociety.org/newsletter/2022/06/joint-ieee-sps-and-eurasip-summer-school-defining-6g-theory-applications-and), Linköpings Universitet, Sweden
