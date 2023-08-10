@@ -16,11 +16,11 @@ redirect_from:
    * Thesis: 
 
 * **M.S. Eng.** in Wireless Communications, Soongsil University, (2018 - 2020). GPA: 94.5/100
-  * Thesis: _Resource Allocation for Simultaneous Wireless Information and Power Transfer in Relaying
-Systems_
+  * Thesis: _[Resource Allocation for Simultaneous Wireless Information and Power Transfer in Relaying
+Systems](https://drive.google.com/file/d/1LBIXT7qKbRK08PVoS6CxKZsj3ToQ_2Rq/view?usp=sharing)_
 
 * **B.S.** in Electronics and Telecommunications, Ho Chi Minh city University of Technology, (2013 - 2018). _First class Honors_
-   * Thesis: _Sign language identification for people with hearing disabilities_ (grade: 95/100)
+   * Thesis: _[Sign language identification for people with hearing disabilities](https://drive.google.com/file/d/1Lg6sXTKP8BQKN-rbrbgMjrzHUqqSe8eB/view?usp=sharing)_ (grade: 95/100)
 
 ---
 ## Academic Experience
