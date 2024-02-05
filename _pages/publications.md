@@ -36,7 +36,7 @@ You can also find my articles on [Google Scholar profile](https://scholar.google
 ---
 ## Conferences
 
-1. **Van-Phuc Bui**, Shashi Raj Pandey, Pedro M. Ana, and Petar Popovski. "Value-Based Reinforcement Learning for Digital Twins in Cloud Computing." IEEE ICC 2024, America.
+1. **Van-Phuc Bui**, Shashi Raj Pandey, Pedro M. Ana, and Petar Popovski. "Value-Based Reinforcement Learning for Digital Twins in Cloud Computing." IEEE ICC 2024, USA.
 
 1. Pandey, Shashi Raj, **Van-Phuc Bui**, and Petar Popovski. "Goal-Oriented Communications in Federated Learning via Feedback on Risk-Averse Participation." PIMRC 2023-WS NAISC, Toronto, Canada.
 
