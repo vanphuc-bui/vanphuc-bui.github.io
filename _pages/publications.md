@@ -16,11 +16,13 @@ You can also find my articles on [Google Scholar profile](https://scholar.google
 ---
 ## Journals
 
+1. **Van-Phuc Bui**, Thinh Q. Dinh, Israel Leyva-Mayorga, Shashi Raj Pandey, Eva Lagunas, Petar Popovski. ''Semantic Image Encoding and Communication for Earth Observation with LEO Satellites.'' IEEE Transactions on Cognitive Communications and Networking (under review).
+
 1. **Van-Phuc Bui**, Shashi Raj Pandey, Federico Chiariotti, and Petar Popovski. "Scheduling policy for Value-of-Information (VoI) in trajectory estimation for Digital Twins." IEEE Communications Letters (2023).
    
    <!-- [Download paper here](http://vanphuc-bui.github.io/files/paper1.pdf) -->
 
-2. **Van-Phuc Bui**, Shashi Raj Pandey, Federico Chiariotti, and Petar Popovski. "Game Networking and its Evolution towards Supporting Metaverse through the 6G Wireless Systems." arXiv preprint arXiv:2302.01672 (2023).
+2. **Van-Phuc Bui**, Shashi Raj Pandey, Federico Chiariotti, and Petar Popovski. "Game Networking and its Evolution towards Supporting Metaverse through the 6G Wireless Systems." IEEE Communications Magazine (under review).
 
 3. **Van-Phuc Bui**, Trinh Van Chien, Eva Lagunas, Joël Grotz, Symeon Chatzinotas, and Björn Ottersten. "Robust congestion control for demand-based optimization in precoded multi-beam high throughput satellite communications." IEEE Transactions on Communications 70, no. 10 (2022): 6918-6937.
 
@@ -34,9 +36,11 @@ You can also find my articles on [Google Scholar profile](https://scholar.google
 ---
 ## Conferences
 
-1. Pandey, Shashi Raj, **Van-Phuc Bui**, and Petar Popovski. "Goal-Oriented Communications in Federated Learning via Feedback on Risk-Averse Participation." arXiv preprint arXiv:2305.11633 (2023).
+1. **Van-Phuc Bui**, Shashi Raj Pandey, Pedro M. Ana, and Petar Popovski. "Value-Based Reinforcement Learning for Digital Twins in Cloud Computing." IEEE ICC 2024, America.
 
-6.  **Van-Phuc Bui**, Thinh Q. Dinh, Israel Leyva-Mayorga, Shashi Raj Pandey, Eva Lagunas, and Petar Popovski. "On-board Change Detection for Resource-efficient Earth Observation with LEO Satellites." arXiv preprint arXiv:2305.10119 (2023).
+1. Pandey, Shashi Raj, **Van-Phuc Bui**, and Petar Popovski. "Goal-Oriented Communications in Federated Learning via Feedback on Risk-Averse Participation." PIMRC 2023-WS NAISC, Toronto, Canada.
+
+6.  **Van-Phuc Bui**, Thinh Q. Dinh, Israel Leyva-Mayorga, Shashi Raj Pandey, Eva Lagunas, and Petar Popovski. "On-board Change Detection for Resource-efficient Earth Observation with LEO Satellites." IEEE Globecom 2023, Malaysia.
 
 5. **Van-Phuc Bui**, Trinh Van Chien, Eva Lagunas, Joël Grotz, Symeon Chatzinotas, and Björn Ottersten. "Joint beam placement and load balancing optimization for non-geostationary satellite systems." In 2022 IEEE International Mediterranean Conference on Communications and Networking (MeditCom), pp. 316-321. IEEE, 2022.
 
